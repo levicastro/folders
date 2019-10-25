@@ -9,15 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="118.56124mm"
+   height="135.46667mm"
+   viewBox="0 0 118.56124 135.46667"
    version="1.1"
-   id="svg3873"
+   id="svg167"
    inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
    sodipodi:docname="thumbRock90.svg">
   <defs
-     id="defs3867" />
+     id="defs161" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -26,18 +26,24 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:cx="224.05273"
+     inkscape:cy="256.00001"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
+     inkscape:pagecheckerboard="true"
+     borderlayer="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      inkscape:window-width="1366"
      inkscape:window-height="713"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata3870">
+     id="metadata164">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -51,9 +57,10 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-46.552716,-81.099996)">
     <path
-       id="path3965"
+       id="path272"
        d="m 152.41251,204.07833 c 0.10583,-7.11729 -5.60917,-12.91166 -12.7,-12.91166 V 189.05 h 8.255 c 6.95854,0 12.77937,-5.52979 12.91166,-12.48833 0.10584,-7.1173 -5.60916,-12.91167 -12.69999,-12.91167 h -8.46667 v -2.11667 h 12.48833 c 6.95854,0 12.77937,-5.52979 12.91167,-12.48833 0.10583,-7.1173 -5.60917,-12.91167 -12.7,-12.91167 h -12.7 v -2.11667 h 8.255 c 6.95854,0 12.77937,-5.52979 12.91166,-12.48833 0.10584,-7.11729 -5.60916,-12.91167 -12.69999,-12.91167 H 112.19584 L 114.07438,106.5 h 12.72646 c 6.95854,0 12.77938,-5.5298 12.91167,-12.488337 0.10583,-7.117292 -5.60917,-12.911667 -12.7,-12.911667 h -17.56833 c -7.24959,0 -14.155214,3.095625 -18.997094,8.519584 l -26.27312,29.55396 c -2.40771,2.69875 -5.87375,4.25979 -9.49854,4.25979 h -1.77271 c -3.51896,0 -6.35,2.83104 -6.35,6.35 v 63.5 c 0,3.51896 2.83104,6.35 6.35,6.35 h 0.76729 c 3.38667,0 6.74688,0.68792 9.86896,1.98438 l 30.77104,12.96458 c 3.12208,1.32292 6.482294,1.98438 9.868964,1.98438 h 35.32187 c 6.95854,0 12.80584,-5.5298 12.91167,-12.48834 z"
        inkscape:connector-curvature="0"
        style="fill:#ffffff;stroke-width:0.26458332" />
